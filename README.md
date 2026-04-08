@@ -100,5 +100,4 @@ Static settings are managed in `config/config.yaml`. You can modify:
 
 ---
 
-## 📜 License
-Internal Project - Senior Machine Learning Engineering Team.
+.
