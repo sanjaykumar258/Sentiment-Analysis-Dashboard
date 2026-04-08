@@ -1,0 +1,7 @@
+__pycache__/
+.env
+.git/
+data/
+logs/
+saved_model/
+*.csv

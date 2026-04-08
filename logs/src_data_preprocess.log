@@ -1,0 +1,10 @@
+2026-04-08 21:36:36,270 - src.data.preprocess - INFO - Starting DataFrame preprocessing for column: 'text' with 256 rows.
+2026-04-08 21:36:36,378 - src.data.preprocess - INFO - Preprocessing complete. Dropped 0 rows due to empty extracted text.
+2026-04-08 21:51:39,511 - src.data.preprocess - INFO - Starting DataFrame preprocessing for column: 'likes' with 256 rows.
+2026-04-08 21:51:39,515 - src.data.preprocess - INFO - Preprocessing complete. Dropped 256 rows due to empty extracted text.
+2026-04-08 21:51:41,854 - src.data.preprocess - INFO - Starting DataFrame preprocessing for column: 'likes' with 256 rows.
+2026-04-08 21:51:41,855 - src.data.preprocess - INFO - Preprocessing complete. Dropped 256 rows due to empty extracted text.
+2026-04-08 21:51:56,729 - src.data.preprocess - INFO - Starting DataFrame preprocessing for column: 'category' with 256 rows.
+2026-04-08 21:51:56,733 - src.data.preprocess - INFO - Preprocessing complete. Dropped 0 rows due to empty extracted text.
+2026-04-08 21:52:13,393 - src.data.preprocess - INFO - Starting DataFrame preprocessing for column: 'text' with 256 rows.
+2026-04-08 21:52:13,404 - src.data.preprocess - INFO - Preprocessing complete. Dropped 0 rows due to empty extracted text.

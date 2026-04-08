@@ -1,0 +1,4 @@
+2026-04-08 21:25:08,097 - src.models.predict - INFO - Initializing InferencePipeline
+2026-04-08 21:25:08,098 - src.models.predict - INFO - Using compute device: cpu
+2026-04-08 21:25:08,098 - src.models.predict - WARNING - Failed to load local model from directory: Local config json missing in saved_model
+2026-04-08 21:25:08,098 - src.models.predict - WARNING - Falling back to download default model from Hugging Face Hub: cardiffnlp/twitter-roberta-base-sentiment-latest

@@ -1,0 +1,11 @@
+pandas
+torch
+transformers
+streamlit
+plotly
+pydantic
+pydantic-settings
+PyYAML
+emoji
+scikit-learn
+pytest

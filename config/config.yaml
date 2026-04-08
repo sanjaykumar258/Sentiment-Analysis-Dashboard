@@ -1,0 +1,9 @@
+paths:
+  data_dir: "./data"
+  model_dir: "./saved_model"
+  log_dir: "./logs"
+
+model:
+  model_name: "cardiffnlp/twitter-roberta-base-sentiment-latest"
+  max_length: 128
+  batch_size: 16

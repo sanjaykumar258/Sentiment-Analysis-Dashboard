@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  sentiment-dashboard:
+    build: .
+    container_name: sentiment_dashboard_app
+    ports:
+      - "8501:8501"
+    environment:
+      - STREAMLIT_SERVER_MAX_UPLOAD_SIZE=50
+    volumes:
+      - ./saved_model:/app/saved_model
+      - ./logs:/app/logs
+      - ./data:/app/data
+    restart: unless-stopped
